@@ -1,1 +1,1 @@
-# [test website](https://hisunnymay.github.io/docsify/#/custom-navbar)
+# [test website](https://hisunnymay.github.io/docsify/#/)
